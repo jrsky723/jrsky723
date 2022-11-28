@@ -1,5 +1,4 @@
 # Hyunmo Yang
----
 ### Well Come 😄
 I'm currently study in Seoultech (Computer Science)
 
