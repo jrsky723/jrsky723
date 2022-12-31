@@ -1,5 +1,5 @@
 ## WelCome 😄
-I'm currently study in Seoultech (Computer Science)
+I'm currently studying in Seoultech (Computer Science)
 
 ## Skills ##
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=hanu607)](https://solved.ac/hanu607)
