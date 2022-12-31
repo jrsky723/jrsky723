@@ -1,4 +1,4 @@
-## Well Come 😄
+## WelCome 😄
 I'm currently study in Seoultech (Computer Science)
 
 ## Skills ##
